@@ -7,4 +7,5 @@
   :version "0.0.1"
   :serial t
   :components ((:file "package")
-               (:file "lisp-3rd")))
+               (:file "chapter3")
+               (:file "chapter4")))
