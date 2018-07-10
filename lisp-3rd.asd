@@ -8,4 +8,6 @@
   :serial t
   :components ((:file "package")
                (:file "chapter3")
-               (:file "chapter4")))
+               (:file "chapter4")
+               (:file "chapter5")
+               (:file "chapter7")))
