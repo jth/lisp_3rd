@@ -10,4 +10,7 @@
                (:file "chapter3")
                (:file "chapter4")
                (:file "chapter5")
-               (:file "chapter7")))
+               (:file "chapter7")
+               (:file "chapter11")
+               (:file "chapter12")
+               (:file "misc")))
